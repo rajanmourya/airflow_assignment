@@ -36,8 +36,7 @@ docker-compose ps
 ### 6. Access the Airflow Webserver
 * http://localhost:8080
 
-### Info
-## Directory Structure
+### Directory Structure
 ```sh
 dags/: Directory containing your DAG files.
 plugins/: Directory for custom plugins.
