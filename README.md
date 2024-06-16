@@ -4,8 +4,7 @@ This project contains Airflow DAGs and the necessary configuration to run them u
 
 ## Prerequisites
 
-- Docker
-- Docker Compose
+- Docker: https://www.docker.com/products/docker-desktop/ 
 
 ## Setup Instructions
 
